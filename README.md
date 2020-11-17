@@ -6,6 +6,9 @@
 
 ## My name is Michel de Lima Soares.
 
+### My WhatsApp is 55-11-99234-1757
+### My Linkedin is https://www.linkedin.com/in/michel-soares-20202020/
+
 I am currently a student and, in the process of becoming a Technologist in Systems Analysis and Development at the Ferraz de Vasconcelos Technology Faculty
 
 <!--
