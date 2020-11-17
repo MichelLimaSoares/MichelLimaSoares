@@ -1,7 +1,13 @@
 ### Hi there 👋
-# Hello, welcome to my profile.
+# welcome to my profile.
 
-My name is Michel de Lima Soares, I am currently a student and, in the process of becoming a Technologist in Systems Analysis and Development at the Ferraz de Vasconcelos Technology Faculty
+
+# About Me
+
+## My name is Michel de Lima Soares.
+
+I am currently a student and, in the process of becoming a Technologist in Systems Analysis and Development at the Ferraz de Vasconcelos Technology Faculty
+
 <!--
 **MichelLimaSoares/MichelLimaSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
