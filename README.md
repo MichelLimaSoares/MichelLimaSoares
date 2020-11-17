@@ -11,7 +11,7 @@
 
 I'm a Programmer / Developer Analyst Jr.
 
-Basic knowledge and notion of Back End, Front End and Mobile
+Basic knowledge and notion of BackEnd, FrontEnd and Mobile
 
 I'm currently a student and, in the process of becoming a Technologist in Systems Analysis and Development at the Ferraz de Vasconcelos Technology Faculty
 
