@@ -26,7 +26,7 @@
   <a href="mailto:michellimasoares2017@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-michellimasoares2017%40gmail.com-red?style=flat-square&logo=gmail">
   </a>
-  <a href="https://www.linkedin.com/in/michel-lima-soares/">
+  <a href="https://www.linkedin.com/in/michel-soares-20202020">
     <img src="https://img.shields.io/badge/LinkedIn-Michel%20Lima%20Soares-blue?style=flat-square&logo=linkedin">
   </a>
 </p>
