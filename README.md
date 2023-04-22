@@ -1,4 +1,4 @@
-<h1 align="center">Michel Lima Soares - Desenvolvedor de Sistemas</h1>
+<h1 align="center">Michel de Lima Soares - Desenvolvedor de Sistemas</h1>
 
 <p align="center">Sou um desenvolvedor de sistemas júnior com habilidades em desenvolvimento web frontend e backend, incluindo MVC e Ajax. Possuo conhecimentos em Git, C#, JS, HTML, SQL Server Management Studio, Python e Excel. Além disso, tenho experiência em tratamento e processamento de dados, importação/exportação e extração de relatórios.</p>
 
